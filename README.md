@@ -26,7 +26,7 @@ Movie-Ticket-Booking/
 
 ## ⚙️ Installation & Usage
 1. Clone the repository  
-git clone https://github.com/yourusername/movie-ticket-booking.git  
+git clone https://github.com/Buddy-787/Movie-Ticket-Booking.git
 
 2. Navigate to the project folder  
 cd movie-ticket-booking  
